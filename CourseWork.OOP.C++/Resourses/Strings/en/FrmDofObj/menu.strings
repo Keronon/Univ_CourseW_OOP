@@ -1,0 +1,8 @@
+1 start to create a new confection;
+2 displays the current list of confectionery products;
+3 start to create a new filling;
+4 displays the current list of fillings;
+5 output of the confectionery product by number (operator overload >>);
+6 output of filling by number (operator overload >>);
+Escape return to start screen
+L/Ä changing language

@@ -1,0 +1,327 @@
+DeBUG::Processor::CORRECT::Variables_initializing
+
+DeBUG::Processor::CORRECT::Supported_keys_initializing::
+0 48
+1 49
+2 50
+3 51
+4 52
+5 53
+6 54
+7 55
+8 56
+9 57
+Enter 11
+Escape 27
+L 108
+Д -28
+
+DeBUG::Processor::CORRECT::Creating::007714A0
+DeBUG::Processor::CORRECT::Starting::007714A0
+
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmLangSet::CORRECT::Variables_initializing
+
+DeBUG::FrmLangSet::CORRECT::Keys_initializing::
+EN 49
+QUIT 27
+RU 50
+
+DeBUG::FrmLangSet::CORRECT::Creating::007847E8
+
+
+DeBUG::FrmLangSet::!ERROR!::Strings_path_initializing::
+initiated::
+_______e:\Академ. разница\ООП\CourseWork.OOP.C++\CourseWork.OOP.C++\Resourses\Strings\
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmTitle::CORRECT::Variables_initializing
+
+DeBUG::FrmTitle::CORRECT::Keys_initializing::
+DofObj 50
+EofSA 49
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+QUIT 27
+SofHelp 51
+
+DeBUG::FrmTitle::CORRECT::Text_initializing
+DeBUG::FrmTitle::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmTitle::CORRECT::Show
+DeBUG::FrmTitle::CORRECT::Creating::061212B8
+
+
+DeBUG::FrmLangSet::CORRECT::Updating
+DeBUG::Frame_core of FrmLangSet::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmLangSet::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmEofSA::CORRECT::Variables_initializing
+
+DeBUG::FrmEofSA::CORRECT::Keys_initializing::
+BACK 27
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+
+DeBUG::FrmEofSA::CORRECT::Text_initializing
+DeBUG::FrmEofSA::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmEofSA::CORRECT::Show
+DeBUG::FrmEofSA::CORRECT::Creating::06121A38
+
+
+DeBUG::FrmTitle::CORRECT::Updating
+DeBUG::Frame_core of FrmTitle::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmTitle::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmTitle::CORRECT::Variables_initializing
+
+DeBUG::FrmTitle::CORRECT::Keys_initializing::
+DofObj 50
+EofSA 49
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+QUIT 27
+SofHelp 51
+
+DeBUG::FrmTitle::CORRECT::Text_initializing
+DeBUG::FrmTitle::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmTitle::CORRECT::Show
+DeBUG::FrmTitle::CORRECT::Creating::061218B8
+
+
+DeBUG::FrmEofSA::CORRECT::Updating
+DeBUG::Frame_core of FrmEofSA::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmEofSA::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmDofObj::CORRECT::Variables_initializing
+
+DeBUG::FrmDofObj::CORRECT::Keys_initializing::
+BACK 27
+C_NEW 49
+C_SEE 50
+C_SHOW 53
+F_NEW 51
+F_SEE 52
+F_SHOW 54
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+
+DeBUG::FrmDofObj::CORRECT::Text_initializing
+DeBUG::FrmDofObj::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::FrmDofObj::CORRECT::Creating::0642C610
+
+
+DeBUG::FrmTitle::CORRECT::Updating
+DeBUG::Frame_core of FrmTitle::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmTitle::CORRECT::Deleting
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::Filling::CORRECT::Creating::064043A0::12Булок
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::Confection::CORRECT::Creating::063BC890::Плюшка
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::Filling::CORRECT::Creating::06404CA0::Желле
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::Filling::CORRECT::Creating::06404700::Мята
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+DeBUG::Frame_core of FrmDofObj::CORRECT::Show
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::0
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmTitle::CORRECT::Variables_initializing
+
+DeBUG::FrmTitle::CORRECT::Keys_initializing::
+DofObj 50
+EofSA 49
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+QUIT 27
+SofHelp 51
+
+DeBUG::FrmTitle::CORRECT::Text_initializing
+DeBUG::FrmTitle::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmTitle::CORRECT::Show
+DeBUG::FrmTitle::CORRECT::Creating::007F41C0
+
+
+DeBUG::FrmDofObj::CORRECT::Updating
+DeBUG::Frame_core of FrmDofObj::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmDofObj::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmSofHelp::CORRECT::Variables_initializing
+
+DeBUG::FrmSofHelp::CORRECT::Keys_initializing::
+AtheAuth 51
+AtheProg 50
+BACK 27
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+RforOper 49
+
+DeBUG::FrmSofHelp::CORRECT::Text_initializing
+DeBUG::FrmSofHelp::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Show
+DeBUG::FrmSofHelp::CORRECT::Creating::007F3440
+
+
+DeBUG::FrmTitle::CORRECT::Updating
+DeBUG::Frame_core of FrmTitle::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmTitle::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmRforOper::CORRECT::Variables_initializing
+
+DeBUG::FrmRforOper::CORRECT::Keys_initializing::
+BACK 27
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+
+DeBUG::FrmRforOper::CORRECT::Text_initializing
+DeBUG::FrmRforOper::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmRforOper::CORRECT::Show
+DeBUG::FrmRforOper::CORRECT::Creating::007F3A40
+
+
+DeBUG::FrmSofHelp::CORRECT::Updating
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmSofHelp::CORRECT::Variables_initializing
+
+DeBUG::FrmSofHelp::CORRECT::Keys_initializing::
+AtheAuth 51
+AtheProg 50
+BACK 27
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+RforOper 49
+
+DeBUG::FrmSofHelp::CORRECT::Text_initializing
+DeBUG::FrmSofHelp::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Show
+DeBUG::FrmSofHelp::CORRECT::Creating::007F3EC0
+
+
+DeBUG::FrmRforOper::CORRECT::Updating
+DeBUG::Frame_core of FrmRforOper::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmRforOper::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmAtheProg::CORRECT::Variables_initializing
+
+DeBUG::FrmAtheProg::CORRECT::Keys_initializing::
+BACK 27
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+
+DeBUG::FrmAtheProg::CORRECT::Text_initializing
+DeBUG::FrmAtheProg::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmAtheProg::CORRECT::Show
+DeBUG::FrmAtheProg::CORRECT::Creating::007F4340
+
+
+DeBUG::FrmSofHelp::CORRECT::Updating
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmSofHelp::CORRECT::Variables_initializing
+
+DeBUG::FrmSofHelp::CORRECT::Keys_initializing::
+AtheAuth 51
+AtheProg 50
+BACK 27
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+RforOper 49
+
+DeBUG::FrmSofHelp::CORRECT::Text_initializing
+DeBUG::FrmSofHelp::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Show
+DeBUG::FrmSofHelp::CORRECT::Creating::007F3E00
+
+
+DeBUG::FrmAtheProg::CORRECT::Updating
+DeBUG::Frame_core of FrmAtheProg::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmAtheProg::CORRECT::Deleting
+DeBUG::Frame_core::CORRECT::Creating
+
+DeBUG::FrmTitle::CORRECT::Variables_initializing
+
+DeBUG::FrmTitle::CORRECT::Keys_initializing::
+DofObj 50
+EofSA 49
+LANGUAGE_EN 108
+LANGUAGE_RU -28
+QUIT 27
+SofHelp 51
+
+DeBUG::FrmTitle::CORRECT::Text_initializing
+DeBUG::FrmTitle::CORRECT::Menu_initializing
+DeBUG::Frame_core of FrmTitle::CORRECT::Show
+DeBUG::FrmTitle::CORRECT::Creating::007F3EC0
+
+
+DeBUG::FrmSofHelp::CORRECT::Updating
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmSofHelp::CORRECT::Deleting
+
+DeBUG::FrmTitle::CORRECT::Updating
+DeBUG::Frame_core of FrmTitle::CORRECT::Quit_sent::1
+DeBUG::Frame_core of FrmTitle::CORRECT::Deleting
+DeBUG::Processor::CORRECT::Deleting::007714A0

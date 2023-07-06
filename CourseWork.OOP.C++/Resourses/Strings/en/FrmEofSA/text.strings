@@ -1,0 +1,19 @@
+EXPOSITION OF THE SUBJECT
+
+Variant 10
+Create a Confection class that includes the following items:
+- field "Name" char * Name;
+- field "Date of manufacture" struct Date {int year; int month; int day} ProductDate;
+- field "Expiry date" struct Date {int year; int month; int day} BestBefore;
+- include in the class the field of the class Filling (filling) Filling * filling;
+- method for getting the date of manufacture int GetProductDate ();
+- method for getting the name int GetName ();
+- method for adding filling void AddFilling (Filling filling);
+- constructor with Confection parameters (char * Name, Date ProductDate, Date BestBefore, Filling * filling).
+Create a Filling class containing elements:
+- field "number of ingredients" int Number;
+- field "Name" char * Name;
+- constructor with parameters Filling (int Number, char * Name);
+- method "Remove ingredient" void AddIngredient ();
+- method "Add ingredient" void DelIngredient ().
+In the Confection class, overload the ~ operator (unary class operator), the new action is to remove the filling.

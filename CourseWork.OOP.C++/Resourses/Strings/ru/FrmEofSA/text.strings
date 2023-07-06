@@ -1,0 +1,19 @@
+ОПИСАНИЕ ПРЕДМЕТНОЙ ОБЛАСТИ
+
+Вариант 10
+Создать класс Confection, включающий в себя следующие элементы:
+- поле «Название» char * Name;
+- поле «Дата изготовления» struct Date {int year; int month; int day} ProductDate;
+- поле «Срок годности» struct Date {int year; int month; int day} BestBefore;
+- включить в класс поле класса Filling (начинка) Filling * filling;
+- метод получения даты изготовления int GetProductDate();
+- метод получения названия int GetName();
+- метод добавления начинки void AddFilling(Filling filling);
+- конструктор с параметрами Confection (char * Name, Date ProductDate, Date BestBefore, Filling * filling).
+Создать класс Filling, содержащий в себе элементы:
+- поле «количество ингредиентов» int Number;
+- поле «Название» char * Name;
+- конструктор с параметрами Filling (int Number, char * Name);
+- метод «Удалить ингредиент» void AddIngredient ();
+- метод «Добавить ингредиент» void DelIngredient ().
+В классе Confection перегрузить оператор ~ (унарный оператор класса), новое действие - удалить начинку.

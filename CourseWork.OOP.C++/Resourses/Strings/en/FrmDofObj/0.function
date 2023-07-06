@@ -1,0 +1,7 @@
+To create a new confectionery
+must be entered via "Enter":
+
+name for the product,
+production date in the format DD.MM.YYYY,
+date up to which it is suitable in the format DD.MM.YYYY,
+name of existing fillings separated by "Space":

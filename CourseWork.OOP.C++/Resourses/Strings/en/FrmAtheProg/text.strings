@@ -1,0 +1,28 @@
+PROGRAM INFORMATION
+
+The program is composed of 14 classes.
+
+Of them:
+
+   The control core consists of 3:
+main      (required class, which is a common wrapper for everything else)
+Processor (a class that controls the system of processing program states)
+Core     (in fact, a file containing elements common to other classes:)
+         (linked libraries, namespaces, and the DeBUG class,)
+         (containing general static functions, mainly for monitoring the state of the program)
+
+   Created according to the condition of task 2:
+Confection (Class-model of the object "Confection")
+Filling    (Class-model of the object "Filling")
+
+   Classes of program states 9:
+Frame        (Parent class for program state classes,)
+             (has no object representations in the program)
+FrmLangSet    (State - language setting)
+FrmTitle      (State - start screen)
+FrmDofObj     (State - demonstration of objects work)
+FrmEofSA      (State - exposition of the subject area)
+FrmSofHelp    (State - help system)
+  FrmAtheAuth (State - information about the author)
+  FrmAtheProg (State - program information)
+  FrmRforOper (State - operator's manual)

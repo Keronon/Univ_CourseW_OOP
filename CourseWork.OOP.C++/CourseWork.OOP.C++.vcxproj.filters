@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Processor.cpp">
+      <Filter>Core\Processor</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Confection.cpp">
+      <Filter>byTask\Confection</Filter>
+    </ClCompile>
+    <ClCompile Include="Filling.cpp">
+      <Filter>byTask\Filling</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.cpp">
+      <Filter>Frames</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmTitle.cpp">
+      <Filter>Frames\title</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmEofSA.cpp">
+      <Filter>Frames\title\exposeOfSubjArea</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmSofHelp.cpp">
+      <Filter>Frames\title\systemOfHelp</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmDofObj.cpp">
+      <Filter>Frames\title\demoOfObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmLangSet.cpp">
+      <Filter>Frames\languageSet</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmAtheAuth.cpp">
+      <Filter>Frames\title\systemOfHelp\aboutTheAuth</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmAtheProg.cpp">
+      <Filter>Frames\title\systemOfHelp\aboutTheProg</Filter>
+    </ClCompile>
+    <ClCompile Include="FrmRforOper.cpp">
+      <Filter>Frames\title\systemOfHelp\rulesForOper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Core">
+      <UniqueIdentifier>{8678b0a6-f93c-433b-837e-4988c16a1ffd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="byTask">
+      <UniqueIdentifier>{ff72c105-9b1b-4e12-b77c-218c8e895924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="byTask\Confection">
+      <UniqueIdentifier>{1154afd7-8908-4e19-b94a-4ba4f59912ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="byTask\Filling">
+      <UniqueIdentifier>{5f3b89a4-cad7-4ce1-a891-17841b9dccd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames">
+      <UniqueIdentifier>{8b2073ef-5430-4340-ac00-9c7929098063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\languageSet">
+      <UniqueIdentifier>{a5dd1550-1fb3-467b-8436-bfb07c578090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Processor">
+      <UniqueIdentifier>{c7f4bad4-ec48-4743-9f4d-c7d9a7f3e475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title">
+      <UniqueIdentifier>{f3d88131-8856-4865-a031-07c9b05b5415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title\demoOfObjects">
+      <UniqueIdentifier>{1f70f6b0-9233-4438-8d2a-a766fc25860a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title\exposeOfSubjArea">
+      <UniqueIdentifier>{f9011599-37d2-44f7-868f-24974ea8a9a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title\systemOfHelp">
+      <UniqueIdentifier>{0b2f3c64-667c-4041-b35b-2c62625b1667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title\systemOfHelp\rulesForOper">
+      <UniqueIdentifier>{22a40fae-91e8-41ca-b51d-2212055690be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title\systemOfHelp\aboutTheProg">
+      <UniqueIdentifier>{75616edb-6db4-4b3f-8382-1a58c75163f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Frames\title\systemOfHelp\aboutTheAuth">
+      <UniqueIdentifier>{2f5dd24b-7a91-466d-bee4-e1851d5ba8e5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Processor.h">
+      <Filter>Core\Processor</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Confection.h">
+      <Filter>byTask\Confection</Filter>
+    </ClInclude>
+    <ClInclude Include="Filling.h">
+      <Filter>byTask\Filling</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>Frames</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmTitle.h">
+      <Filter>Frames\title</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmEofSA.h">
+      <Filter>Frames\title\exposeOfSubjArea</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmSofHelp.h">
+      <Filter>Frames\title\systemOfHelp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmDofObj.h">
+      <Filter>Frames\title\demoOfObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmLangSet.h">
+      <Filter>Frames\languageSet</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmAtheAuth.h">
+      <Filter>Frames\title\systemOfHelp\aboutTheAuth</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmAtheProg.h">
+      <Filter>Frames\title\systemOfHelp\aboutTheProg</Filter>
+    </ClInclude>
+    <ClInclude Include="FrmRforOper.h">
+      <Filter>Frames\title\systemOfHelp\rulesForOper</Filter>
+    </ClInclude>
+    <ClInclude Include="StringProcesses.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleColorControl.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Task.txt" />
+    <Text Include="ToDo.txt" />
+  </ItemGroup>
+</Project>
